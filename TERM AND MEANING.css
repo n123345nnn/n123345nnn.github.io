@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.list_menu li{
+    display: inline-block;
+    margin-right: 20px;
+}
+.title, .list_menu{
+    display: inline-block;
+    margin-right: 20px;
+    color: beige;
+     
+}
+body{
+	background-image: url("image-26-06-23-10-35-1.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100vw 200vh;
+}
+.list_menu a{
+    color: beige;
+
+}
+.all{
+    display: flex; 
+    justify-content: center;
+}
+.tex{
+    position:fixed;
+    color:beige;
+}
+.picture{
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+.list_menu :hover{
+    color:black;
+}
+.menu{
+	padding: 0vh 40px;
+	position: fixed;
+	background:rgba(188, 197, 203, 0.398);
+	font-size:20px;
+	border-right:5px solid;
+    border-left: 5px solid;
+    border-width: 5px solid;
+	height: 10vh;
+	backdrop-filter: blure(20px);
+	color:beige;
+    font-family:'Times New Roman', Times, serif;
+}
+.tex{
+    position:fixed;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    vertical-align: 5px;
+    font-size: 17px;
+    color:beigess;
+}
+.tex li{
+    color:beige;
+    margin-left: 20px;
+}
+a{
+    color: rgb(52, 209, 218);
+    text-decoration: none;
+}
+.body{
+    margin-left: 10px;
+}
