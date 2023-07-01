@@ -2,6 +2,12 @@
     padding: 0;
     margin: 0;
 }
+body{
+	background-image: url("image-26-06-23-10-35-1.jpeg");
+    	background-repeat: no-repeat;
+    	background-position: center;
+    	background-size: 100vw 200vh;
+}
 .list_menu li{
     display: inline-block;
     margin-right: 20px;
@@ -25,11 +31,7 @@
     position:fixed;
     color:beige;
 }
-.picture{
-    width: 100vw;
-    height: 100vh;
-    overflow: hidden;
-}
+
 .list_menu :hover{
     color:black;
 }
