@@ -29,6 +29,7 @@ body{
 .tex{
     position:fixed;
     color:beige;
+	margin-left: 15px;
 }
 .picture{
     width: 100vw;
