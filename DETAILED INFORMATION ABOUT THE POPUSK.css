@@ -7,7 +7,7 @@ body{
 	background-image: url("image-26-06-23-10-35-1.jpeg");
     	background-repeat: no-repeat;
     	background-position: center;
-    	background-size: contain;
+    	background-size: 100vw 300vh;
 }
 
 .list_menu li{
