@@ -58,9 +58,12 @@ body{
     vertical-align: 5px;
     font-size: 19px;
     color:beige;
+	margin-left: 15px;
 }
 .zag {
     font-family:Brush Script MT, Brush Script Std, cursive;
     font-size: larger;
 }
-
+.Picture{
+	margin-left: auto;
+}
