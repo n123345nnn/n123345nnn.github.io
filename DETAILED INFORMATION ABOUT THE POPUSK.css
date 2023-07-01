@@ -2,6 +2,14 @@
     padding: 0;
     margin: 0;
 }
+
+body{
+	background-image: url("image-26-06-23-10-35-1.jpeg");
+    	background-repeat: no-repeat;
+    	background-position: center;
+    	background-size: 100vw 175vh;
+}
+
 .list_menu li{
     display: inline-block;
     margin-right: 20px;
@@ -15,11 +23,6 @@
 
 .list_menu a{
     color: beige;
-	body{
-	background-image: url("image-26-06-23-10-35-1.jpeg");
-    	background-repeat: no-repeat;
-    	background-position: center;
-    	background-size: 100vw 150vh;
 }
 
 
@@ -32,11 +35,7 @@
     position:fixed;
     color:beige;
 }
-.picture{
-    width: 100vw;
-    height: 100vh;
-    overflow: hidden;
-}
+
 .list_menu :hover{
     color:black;
 }
@@ -51,7 +50,6 @@
 	height: 10vh;
 	backdrop-filter: blure(20px);
 	color:beige;
-    bl
     font-family:'Times New Roman', Times, serif;
 }
 .tet{
