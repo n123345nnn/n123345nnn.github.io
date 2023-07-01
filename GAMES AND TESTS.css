@@ -16,7 +16,7 @@ body{
 	background-image: url("image-26-06-23-10-35-1.jpeg");
     	background-repeat: no-repeat;
     	background-position: center;
-    	background-size: 100vw 200vh;
+    	background-size: 100vw 150vh;
 }
 
 .list_menu a{
@@ -42,7 +42,7 @@ body{
 	font-size:20px;
 	border-right:5px solid;
     	border-left: 5px solid;
-   	 border-width: 5px solid;
+   	border-width: 5px solid;
 	height: 10vh;
 	backdrop-filter: blure(20px);
 	color:beige;
