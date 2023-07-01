@@ -50,6 +50,7 @@ body{
     font-family:'Times New Roman', Times, serif;
 }
 .te {
+	margin-left: 15px;
     position:fixed;
     font-family:Snell Roundhand, cursive;
     vertical-align: 5px;
