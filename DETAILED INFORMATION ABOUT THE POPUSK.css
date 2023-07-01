@@ -15,6 +15,13 @@
 
 .list_menu a{
     color: beige;
+	body{
+	background-image: url("image-26-06-23-10-35-1.jpeg");
+    	background-repeat: no-repeat;
+    	background-position: center;
+    	background-size: 100vw 150vh;
+}
+
 
 }
 .all{
