@@ -46,8 +46,7 @@ body{
 	height: 10vh;
 	backdrop-filter: blure(20px);
 	color:beige;
-    bl
-    font-family:'Times New Roman', Times, serif;
+    	font-family:'Times New Roman', Times, serif;
 }
 .games{
     position:fixed;
